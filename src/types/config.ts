@@ -10,10 +10,23 @@ export type SiteConfig = {
     hue: number
     fixed: boolean
   }
+  // banner: {
+  //   enable: boolean
+  //   src: string
+  //   position?: 'top' | 'center' | 'bottom'
+  //   credit: {
+  //     enable: boolean
+  //     text: string
+  //     url?: string
+  //   }
+  // }
   banner: {
     enable: boolean
     src: string
     position?: 'top' | 'center' | 'bottom'
+    autoplay?: boolean       // Automatically play the video
+    loop?: boolean           // Loop the video
+    muted?: boolean          // Mute the video (important for autoplay in most browsers)
     credit: {
       enable: boolean
       text: string
