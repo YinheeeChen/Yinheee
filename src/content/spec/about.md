@@ -16,8 +16,12 @@ Collaboration with: Central South University | Advisor: Fei Guo (2024.10-2025.2)
 Collaboration with: Tsinghua University | Advisor: Hao Zhao (2025.1-2025.3)
 
 ### 📈 GitHub Stats
-![YinheeeChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue" alt="YinheeeChen's GitHub stats" style="height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue" alt="Top Langs" style="height: 195px;">
+</div>
+<!-- ![YinheeeChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue) -->
 
 ![亮色](https://raw.githubusercontent.com/YinheeeChen/YinheeeChen/output/github-contribution-grid-snake.svg)
 
