@@ -16,14 +16,20 @@ Collaboration with: Central South University | Advisor: Fei Guo (2024.10-2025.2)
 Collaboration with: Tsinghua University | Advisor: Hao Zhao (2025.1-2025.3)
 
 ### 📈 GitHub Stats
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue" alt="YinheeeChen's GitHub stats" style="height: 195px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue" alt="Top Langs" style="height: 195px;">
-</div>
 <!-- ![YinheeeChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue) -->
+<!-- <div style="margin-top: 1px;">
+    <img src="https://raw.githubusercontent.com/YinheeeChen/YinheeeChen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
+</div> -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue" alt="YinheeeChen's GitHub stats" style="height: 185px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue" alt="Top Langs" style="height: 185px;">
+</div>
 
-![亮色](https://raw.githubusercontent.com/YinheeeChen/YinheeeChen/output/github-contribution-grid-snake.svg)
+<div style="margin-top: -30px;">
+    <img src="https://raw.githubusercontent.com/YinheeeChen/YinheeeChen/output/github-contribution-grid-snake.svg" alt="亮色" style="position: relative; top: -30px;">
+</div>
+
 
 ### 🏆 Achievements
 - **First Prize** in the National English Reading Competition "Understanding Contemporary China" (School Level), **Provincial First Prize**, **National Bronze Prize** (Nov 2023)
@@ -47,7 +53,7 @@ Collaboration with: Tsinghua University | Advisor: Hao Zhao (2025.1-2025.3)
 - **AI for Science**: Applying artificial intelligence to solve scientific problems and advance research.
 
 ### 📫 How to Reach Me
-- Email: [yinhechen@csu.edn.cn](mailto:yinhechen@csu.edn.cn)
+- Email: [yinhechen@csu.edn.cn](mailto:yinhechen@csu.edu.cn)
 - LinkedIn: [YinheeeChen](https://www.linkedin.com/in/yinheeechen/)
 
 

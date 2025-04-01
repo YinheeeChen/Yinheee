@@ -56,6 +56,11 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
+      name: 'Friends',
+      url: '/friends/',     // Internal links should not include the base path, as it is automatically added
+      external: false,                               // Show an external link icon and will open in a new tab
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/YinheeeChen',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
@@ -83,7 +88,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'QQ',
       icon: 'fa6-brands:qq',
-      url: 'https://qm.qq.com/q/Uy9kmDXHYO',
+      url: 'https://qm.qq.com/q/7Rv1PspRyo',
     },
     {
       name: 'Email',
