@@ -26,7 +26,7 @@ export const siteConfig: SiteConfig = {
   // },
   banner: {
     enable: true,
-    src: 'https://raw.githubusercontent.com/YinheeeChen/Yinheee/refs/heads/main/src/assets/images/banner.mp4', 
+    src: 'https://img.picgo.net/2025/04/01/1ba38cf90bac973ae.mp4', 
     position: 'center',
     autoplay: true,
     loop: true,
