@@ -23,7 +23,7 @@ lang: ''
 
 他们的动机是现有的生成模型比如Diffusion仅关注骨架设计，忽略了侧链动态和全原子结构，强调需要同时建模序列与结构、结合位点条件化生成，以及多模态联合分布的必要性。
 
-![](https://lightwheel.feishu.cn/space/api/box/stream/download/asynccode/?code=MWJmMTBkZmYxZTUzYTY5ODJlMzE5MTI0MzZlMmIzOTlfZGlJaEd3VHFqY0Jrbml5alIwZlFLZmw3bGFBNTlTb1lfVG9rZW46RjdWa2JwbXlCb2R5d3V4NUJhcmNPcE1WbmhmXzE3NDM1Nzc5MjY6MTc0MzU4MTUyNl9WNA)
+<img title="" src="./assets/images/2025-04-02-16-15-02-d880472ab4377d563edd0355712a92b.png" alt="" data-align="center" width="1071">
 
 引言部分的图片用于引出问题，左边展示的就是肽和目标蛋白的结合示意图，突出关键残基的骨架方向和侧链相互作用。右图呢说明了每个蛋白质残基包含了骨架原子和侧链原子，意思就是说肽和蛋白质相互结合的关键因素就是这俩，那在这个工作里面就要把他们考虑进去。
 
@@ -43,7 +43,7 @@ lang: ''
 
 - **联合目标函数**：加权多模态损失（位置、方向、角度、类型）。
 
-![](https://lightwheel.feishu.cn/space/api/box/stream/download/asynccode/?code=OWFjMDMxMjJhZjJlNDgzNWMyMDNhZGFhMDZmNjljNzFfaGpWbVBXTjhucW15MU1QQTFpNTZBamFCMHBaQUdtRktfVG9rZW46T0ZZc2JqZG4xb1lnMUJ4N2YwYmNVR2Z3bkVlXzE3NDM1Nzc5MjY6MTc0MzU4MTUyNl9WNA)
+![](./assets/images/2025-04-02-16-15-06-3f19b12c48639709f7f0aff37c02bf1.png)
 
 他的架构其实很简单，就是encoder和decoder，encoder是用于提取目标蛋白质的几何特征也就是编码为embedding，decoder基于Invariant Point Attention对各个模态的flow进行预测，通过欧拉方法迭代生成肽结构
 
