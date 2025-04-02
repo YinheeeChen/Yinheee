@@ -1,6 +1,15 @@
 ## 👋 Hello! Welcome to my Blog!
 
 I'm YinheeeChen, an undergraduate student in Central South University. Here's a bit about me and my work:
+### 🚀 Technologies & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: -30px; margin-bottom: -20px;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</div>
+
 
 ### 📚 Research Experience
 - *First Author* | **CONF-MLA 2024** (Published) | **Enhancing Stability and Explainability in Reinforcement Learning with Machine Learning**  
@@ -21,12 +30,12 @@ Collaboration with: Tsinghua University | Advisor: Hao Zhao (2025.1-2025.3)
 <!-- <div style="margin-top: 1px;">
     <img src="https://raw.githubusercontent.com/YinheeeChen/YinheeeChen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
 </div> -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: -40px;">
     <img src="https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue" alt="YinheeeChen's GitHub stats" style="height: 185px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue" alt="Top Langs" style="height: 185px;">
 </div>
 
-<div style="margin-top: -30px;">
+<div style="margin-top: -30px; margin-bottom: -30px;">
     <img src="https://raw.githubusercontent.com/YinheeeChen/YinheeeChen/output/github-contribution-grid-snake.svg" alt="亮色" style="position: relative; top: -30px;">
 </div>
 
