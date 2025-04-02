@@ -1,4 +1,4 @@
-```yaml
+---
 title: PocketFlow的一些理解
 
 published: 2025-04-01
@@ -14,7 +14,7 @@ category: '科研'
 draft: false
 
 lang: ''
-```
+---
 
 这一篇也是审稿人提到的，和flow matching相关的一篇工作，名为pocketflow。他的目的是基于蛋白质-配体相互作用的先验知识，生成高质量的蛋白质口袋，动机在于传统的方法在计算上非常消耗时间，且生成的口袋质量比较低，而深度学习方法虽然提高了效率，但是忽略了蛋白质-配体相互作用的知识。因此他们就提出PocketFlow, 一个基于flow matching的生成模型。
 
