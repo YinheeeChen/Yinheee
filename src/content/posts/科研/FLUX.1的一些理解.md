@@ -4,7 +4,7 @@ published: 2024-10-23
 description: '读完Flux的一些理解'
 image: ''
 tags: [Flux, Stable Diffusion]
-category: 'Flux'
+category: '科研'
 draft: false 
 lang: ''
 ---
