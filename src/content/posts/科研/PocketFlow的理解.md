@@ -20,7 +20,7 @@ lang: ''
 
 方法上其实就是利用了flow mathching并结合领域知识来生成高质量的蛋白质口袋
 
-![](https://lightwheel.feishu.cn/space/api/box/stream/download/asynccode/?code=MjQwYjg1Nzg0NjQ1YzY4MWU1NjI0YTU2YjUxZWU1NTBfZ0JlV005aEgwWEllSXVGbGtsWGtoUklMV2E1Uld3T0lfVG9rZW46RUlKa2JaT3VVb3hIMEl4bWdJbmNNSDN1bmFnXzE3NDM1NzgwODM6MTc0MzU4MTY4M19WNA)
+![](./assets/images/2025-04-02-16-18-58-e929b55f2266293b4391a839b2b2f7f.png)
 
 再继续往下看，可以看到PocektFlow和PepFlow的共同点：在 SE(3) 空间中建模蛋白质骨架的生成，在环面上建模侧链二面角，对比两篇工作可以发现完全一样。。。奇怪的是这两篇并没有相互引用:(
 
