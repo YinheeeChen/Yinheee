@@ -26,7 +26,7 @@ export const siteConfig: SiteConfig = {
   // },
   banner: {
     enable: true,
-    src: 'https://img.picgo.net/2025/04/01/1ba38cf90bac973ae.mp4', 
+    src: 'https://img.picgo.net/2025/04/01/17bd966f1b9dbf85e.mp4', 
     position: 'center',
     autoplay: true,
     loop: true,
