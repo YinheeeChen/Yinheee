@@ -30,17 +30,17 @@ importers:
         specifier: ^5.2.6
         version: 5.2.6
       '@iconify-json/fa6-brands':
-        specifier: ^1.2.5
-        version: 1.2.5
+        specifier: ^1.2.6
+        version: 1.2.6
       '@iconify-json/fa6-regular':
-        specifier: ^1.2.3
-        version: 1.2.3
+        specifier: ^1.2.4
+        version: 1.2.4
       '@iconify-json/fa6-solid':
-        specifier: ^1.2.3
-        version: 1.2.3
+        specifier: ^1.2.4
+        version: 1.2.4
       '@iconify-json/material-symbols':
-        specifier: ^1.2.26
-        version: 1.2.26
+        specifier: ^1.2.30
+        version: 1.2.30
       '@iconify/svelte':
         specifier: ^4.2.0
         version: 4.2.0(svelte@5.25.3)
@@ -349,8 +349,8 @@ packages:
     engines: {node: '>=6.0.0'}
     hasBin: true
 
-  '@babel/parser@7.27.5':
-    resolution: {integrity: sha512-OsQd175SxWkGlzbny8J3K8TnnDD0N3lrIUtB92xwyRpzaenGZhxDvxN/JgU00U3CDZNj9tPuDJ5H0WS4Nt3vKg==}
+  '@babel/parser@7.28.0':
+    resolution: {integrity: sha512-jVZGvOxOuNSsuQuLRTh13nU0AogFlw32w/MT+LV6D3sP5WdbW61E77RnkbaO2dUvmPAYrBDJXGn5gGS6tH4j8g==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -800,8 +800,8 @@ packages:
     resolution: {integrity: sha512-H45s8fVLYjbhFH62dIJ3WtmJ6RSPt/3DRO0ZcT2SUiYiQyz3BLVb9ADEnLl91m74aQPS3AzzeajZHYOalWe3bg==}
     engines: {node: '>=6.9.0'}
 
-  '@babel/types@7.27.6':
-    resolution: {integrity: sha512-ETyHEk2VHHvl9b9jZP5IHPavHYk57EhanlRRuae9XCpb/j5bDCbPPMOBfCWhnl/7EDJz0jEMCi/RhccCE8r1+Q==}
+  '@babel/types@7.28.2':
+    resolution: {integrity: sha512-ruv7Ae4J5dUYULmeXw1gmb7rYRz57OWCPM57pHojnLq/3Z1CK2lNSLTCVjxVk1F/TZHwOZZrOWi0ur95BbLxNQ==}
     engines: {node: '>=6.9.0'}
 
   '@biomejs/biome@1.9.4':
@@ -1049,17 +1049,17 @@ packages:
   '@fontsource/roboto@5.2.6':
     resolution: {integrity: sha512-hzarG7yAhMoP418smNgfY4fO7UmuUEm5JUtbxCoCcFHT0hOJB+d/qAEyoNjz7YkPU5OjM2LM8rJnW8hfm0JLaA==}
 
-  '@iconify-json/fa6-brands@1.2.5':
-    resolution: {integrity: sha512-U/iFfziz6jSN9zArOJZYTtoj2tQyh6MxPdI8M84DQ2kEulPaj8j+h9bqvjmzszNHmD7v+kmmKd/MLkMKk+3Zuw==}
+  '@iconify-json/fa6-brands@1.2.6':
+    resolution: {integrity: sha512-twL3X4KWcxAhbc1vz/mIDsVr+CAItk1/EIfxKUVQtpv6O4eydk5KNYqTZWdvJNHGInUgd6vKg21aWfVgb5DXEg==}
 
-  '@iconify-json/fa6-regular@1.2.3':
-    resolution: {integrity: sha512-NGV2j5mn4j49mpP7MABCljp1WPWKjwgfjN6NGwsmlFuQ7bdnz36nZB/5aRXLOcT36NXaBeCoT05G9aatdtMr3A==}
+  '@iconify-json/fa6-regular@1.2.4':
+    resolution: {integrity: sha512-fnUS/MLj3ZAp29oRsC8/aY8Wau7NIg7VesTz3jCcE6VJBzcz95Yxp/Dl5yHvkP+aQxrNw5Lj3nrOXB4nQh+oNA==}
 
-  '@iconify-json/fa6-solid@1.2.3':
-    resolution: {integrity: sha512-C5o8YJF+ekrS4wRb/6/0SE2KjRyJlCg++IOVC/fineiRinITivsmzFRNW1MQX2xfDZ1T7bxeKxLN6lcaTG3jGA==}
+  '@iconify-json/fa6-solid@1.2.4':
+    resolution: {integrity: sha512-LmDNNdJVyvF5mPm1yxWvL8KjCc/E8LzoqnF1LNTVpyY2ZJRUlGOWuPIThdbuFBF2IovgttkIyumhyqfmlHdwKg==}
 
-  '@iconify-json/material-symbols@1.2.26':
-    resolution: {integrity: sha512-U41Yck5mP7Fb38Gm0upT26D26meCR3sJRENE0NQ11RvheTV9+x9zJYcMmBy8m9zmQ+3vzYHvtISAI59MZmh6GA==}
+  '@iconify-json/material-symbols@1.2.30':
+    resolution: {integrity: sha512-3dA1jxkCd8LqEaAWjwQ5tob4pJNKE59Bz604AL1GP3Kyv//pR3un3cIyAUWOFQS1lz0vKKkn0BKOCmcUDi1G8A==}
 
   '@iconify/svelte@4.2.0':
     resolution: {integrity: sha512-fEl0T7SAPonK7xk6xUlRPDmFDZVDe2Z7ZstlqeDS/sS8ve2uyU+Qa8rTWbIqzZJlRvONkK5kVXiUf9nIc+6OOQ==}
@@ -5358,9 +5358,9 @@ snapshots:
     dependencies:
       '@babel/types': 7.27.0
 
-  '@babel/parser@7.27.5':
+  '@babel/parser@7.28.0':
     dependencies:
-      '@babel/types': 7.27.6
+      '@babel/types': 7.28.2
     optional: true
 
   '@babel/plugin-bugfix-firefox-class-in-computed-class-key@7.25.9(@babel/core@7.26.10)':
@@ -5923,7 +5923,7 @@ snapshots:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
 
-  '@babel/types@7.27.6':
+  '@babel/types@7.28.2':
     dependencies:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.27.1
@@ -6079,19 +6079,19 @@ snapshots:
 
   '@fontsource/roboto@5.2.6': {}
 
-  '@iconify-json/fa6-brands@1.2.5':
+  '@iconify-json/fa6-brands@1.2.6':
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/fa6-regular@1.2.3':
+  '@iconify-json/fa6-regular@1.2.4':
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/fa6-solid@1.2.3':
+  '@iconify-json/fa6-solid@1.2.4':
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/material-symbols@1.2.26':
+  '@iconify-json/material-symbols@1.2.30':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -6681,8 +6681,8 @@ snapshots:
 
   '@types/babel__core@7.20.5':
     dependencies:
-      '@babel/parser': 7.27.5
-      '@babel/types': 7.27.6
+      '@babel/parser': 7.28.0
+      '@babel/types': 7.28.2
       '@types/babel__generator': 7.27.0
       '@types/babel__template': 7.4.4
       '@types/babel__traverse': 7.20.7
@@ -6690,18 +6690,18 @@ snapshots:
 
   '@types/babel__generator@7.27.0':
     dependencies:
-      '@babel/types': 7.27.6
+      '@babel/types': 7.28.2
     optional: true
 
   '@types/babel__template@7.4.4':
     dependencies:
-      '@babel/parser': 7.27.5
-      '@babel/types': 7.27.6
+      '@babel/parser': 7.28.0
+      '@babel/types': 7.28.2
     optional: true
 
   '@types/babel__traverse@7.20.7':
     dependencies:
-      '@babel/types': 7.27.6
+      '@babel/types': 7.28.2
     optional: true
 
   '@types/css-tree@2.3.10': {}
